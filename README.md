@@ -32,10 +32,11 @@ The aim of the work is the design and subsequent implementation of the ZnanyTren
 
 ## Technology:
 
--Java
--HTML
--JavaScript
--MySQL
+- Java
+- HTML
+- JavaScript
+- MySQL
+
 ## Commissioning:
 
 For release you need Apache + Xaamp server (locally), for normal web launch you only need a purchased domain and embedding files on your choice.
