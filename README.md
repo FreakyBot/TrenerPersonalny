@@ -44,6 +44,9 @@ The aim of the work is the design and subsequent implementation of the ZnanyTren
 
 For release you need Apache + Xaamp server (locally), for normal web launch you only need a purchased domain and embedding files on your choice.
 
+## PDF/WORD File 
+https://github.com/FreakyBot/TrenerPersonalny/blob/main/praca_inzynierska_kaletka_kamil_ver5.pdf https://github.com/FreakyBot/TrenerPersonalny/blob/main/praca_inzynierska_kaletka_kamil_ver5.docx
+
 ## Author:
 
 Kamil Mikołaj Kaletka
