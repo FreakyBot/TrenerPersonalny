@@ -15,8 +15,6 @@ Celem pracy jest projekt i późniejsza implementacja aplikacji ZnanyTrener, poz
 ## Uruchamienie:
 Do uruchomienia potrzebny jest serwer Apache + Xaamp (lokalnie), do zwykłego uruchomienia na WWW potrzebna jest tylko wykupiona domena i osadzenie plików na serwerze. 
 
-## Zawartość:
-2 foldery zawierają wszsytkie skrypty napisane na potrzebę pracy inżynierskiej
 
 ## Autor: 
 Kamil Mikołaj Kaletka
