@@ -18,3 +18,22 @@ Do uruchomienia potrzebny jest serwer Apache + Xaamp (lokalnie), do zwykłego ur
 
 ## Autor: 
 Kamil Mikołaj Kaletka
+
+
+#Engineering work
+##Project name:
+Design and implementation of the portal Znany Trener made in Java and MySQL technology
+
+##Objective of the work:
+The aim of the work is the design and subsequent implementation of the ZnanyTrener application, allowing the use of a personal trainer, getting acquainted with its offer and signing up for training.
+
+##Technology:
+Java
+HTML
+JavaScript
+MySQL
+##Commissioning:
+For release you need Apache + Xaamp server (locally), for normal web launch you only need a purchased domain and embedding files on your choice.
+
+##Author:
+Kamil Mikołaj Kaletka
